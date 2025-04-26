@@ -1,0 +1,14 @@
+colorama
+pyperclip
+selenium
+PyQt6
+fake-useragent
+nltk
+plyer
+pypdf
+python-docx
+reportlab
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
